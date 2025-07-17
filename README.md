@@ -22,8 +22,8 @@ This is a basic **Todo List** web application built with HTML, Bootstrap, and jQ
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git https://github.com/NahomHailu12/simple_ts_todo.git
+   cd simple_ts_todo
 2. Open and run index.html
 
 
